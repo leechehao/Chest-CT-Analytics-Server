@@ -1,0 +1,9 @@
+# backend
+requests==2.31.0
+fastapi==0.109.2
+uvicorn==0.27.0.post1
+transformers==4.37.2
+onnxruntime-gpu==1.17.0
+
+# frontend
+gradio==4.17.0
